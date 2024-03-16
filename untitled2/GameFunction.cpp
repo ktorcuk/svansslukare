@@ -10,7 +10,7 @@ inline void ScoreCalculator(MainShip* obj){
     std::cout<<"Oyun sonu skorunuz: "<<FinalScore;
 }
 
-inline void GameFunction(MainShip* obj){
+void GameFunction(MainShip* obj){
     int GameType{0};
     bool EAPsituation{false};
 
