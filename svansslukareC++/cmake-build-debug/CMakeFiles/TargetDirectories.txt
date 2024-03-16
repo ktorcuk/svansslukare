@@ -1,3 +1,0 @@
-C:/svansslukareC++/cmake-build-debug/CMakeFiles/svansslukareC__.dir
-C:/svansslukareC++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/svansslukareC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
