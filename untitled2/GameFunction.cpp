@@ -37,6 +37,7 @@ void GameFunction(MainShip* obj){
         puts("");
         std::cout<<"Event sonundaki degerleriniz--> hp:"<<obj->getHp()<<"  altin:"<<obj->getMoney()<<"  yakit:"<<obj->getFuel()<<"\n";
         puts("");
+        std::cin.ignore();
     }
     ScoreCalculator(obj);
 }
