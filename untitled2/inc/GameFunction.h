@@ -6,7 +6,7 @@
 #define UNTITLED2_GAMEFUNCTION_H
 #include "ship.h"
 
-inline void GameFunction(MainShip* obj);
-inline void ScoreCalculator(MainShip* obj);
+void GameFunction(MainShip* obj);
+void ScoreCalculator(MainShip* obj);
 
 #endif //UNTITLED2_GAMEFUNCTION_H
